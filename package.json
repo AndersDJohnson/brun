@@ -1,0 +1,18 @@
+{
+  "name": "brun",
+  "version": "1.0.0",
+  "description": "Run a series of commands using brace expansion.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anders D. Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "brace-expansion": "^1.1.6",
+    "parse-spawn-args": "^1.0.2",
+    "yargs": "^6.6.0"
+  }
+}
