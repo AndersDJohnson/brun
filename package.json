@@ -1,6 +1,6 @@
 {
   "name": "brun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run a series of commands using brace expansion.",
   "main": "index.js",
   "bin": "index.js",
